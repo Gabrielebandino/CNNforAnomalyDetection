@@ -1,9 +1,8 @@
 # Crowd Anomaly Detection Using CNNs
 
-<video width="600" controls>
-  <source src="HeatMapSample.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/c8e1da53-ef88-489a-bb69-1c4e7558c064
+
+
 
 This project focuses on detecting **crowd anomalies** using a Convolutional Neural Network (CNN) applied to video frames. By analyzing the **anomaly score** for each frame, we can identify **major anomalies**, such as people running, and **micro anomalies**, such as pushing, bullying, or other subtle deviations from normal crowd behavior. These anomalies are represented in the graphs with a **threshold line** and the corresponding **anomaly score**, providing an intuitive way to visualize the results.
 
