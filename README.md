@@ -39,7 +39,7 @@ https://github.com/user-attachments/assets/c8e1da53-ef88-489a-bb69-1c4e7558c064
    - Heatmaps are overlaid onto the original frames to create a comprehensive visualization.
 
 5. **Validation and Results**:
-   - Accuracy: ~97.62% on validation data.
+   - Accuracy: ~90% on validation data.
    - Robustness tested on unseen video datasets.
    - Results exported as visualizations (GIF/MP4) for clear presentation.
 
